@@ -6,7 +6,8 @@ int addition() {
 	int a,b;
 	cout << "enter a " << "enter b :";
 	cin >> a >> b;
-	return a+b ;	
+	int addition = a + b;
+	return addition ;	
 }	
 
 
